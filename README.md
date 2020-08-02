@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎使用易经数据服务
 
-You can use the [editor on GitHub](https://github.com/ichingstudent/ichingstudent.github.io/edit/gh_pages/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/ichingstudent/ichingstudent.github.io/edit/pages/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
