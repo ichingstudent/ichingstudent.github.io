@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/ichingstudent/ichingstuden
 
 ## 数据分类 
 
-天干列表 
+[天干列表](/docs/basic_data.md)
 
 地支列表 
 
