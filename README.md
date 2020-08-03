@@ -11,7 +11,7 @@ You can use the [editor on GitHub](https://github.com/ichingstudent/ichingstuden
 
 [天干列表](/docs/basic_data.md)
 
-地支列表 
+[地支列表](/docs/basic_data)
 
 五行列表 
 
