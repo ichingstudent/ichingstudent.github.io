@@ -2,6 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/ichingstudent/ichingstudent.github.io/edit/pages/README.md) to maintain and preview the content for your website in Markdown files. 
 
+《易经》“数相”理论不仅认为宇宙的本质的是数，以数的形式存在，而且还认为宇宙间万事万物的变化，本质上都是“数”的变化。
 
 参考 
 
